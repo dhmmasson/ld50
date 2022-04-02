@@ -1,0 +1,46 @@
+### Drunk ideas two hours before the theme announcement
+- Delay the inevitable 
+  - Airport 
+  - Plane are late you have to choose something
+  - Invader, : selectionner les avions 
+  - la vague et le chateau de sable
+- Fragile 
+  - syteme d'équilibre
+  - Empiler des trucs 
+  - Pas faire pleurer, un enfant 
+  - echec / archi chess qui penche et qui tombe si tu joues pas bien
+  - Mikado
+ - make connections
+   - Diplomacy 
+   - Puzzle - tirer des traits entre A et B
+   - Dessiner des formes
+   - link with the wiki race
+   - Rap jeu - featuring from people
+ - Mutation
+   - Pandemie 
+   - pokemon
+   - metamorphose de kafka - redevenir un etre humain
+   - **Deck debuilding**
+ - Teleportation
+   - Tu generes des cadavres
+   - Domino
+   - Carmen san diego
+   - Labyrinthe avec des portals
+ - a single resource
+   - one button game
+   - the one ring
+-  Folklore 
+	  - Danse / rythm
+	  - put the cloth on someone, is that woke
+	  - Woke, folklore or cultural appropriation
+ - Road trip 
+   - road 66 with the rising gas price
+- Tunnel 
+  - Tunnel vision
+  - vortex
+  - Jeu de cartes
+ - Out of order
+   - Black market, take away, to get the last pad thai
+	- mini games + clues to knows the order
+## Game mechanics
+Can I make a game in blender ?
