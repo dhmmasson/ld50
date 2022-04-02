@@ -1,5 +1,11 @@
 # Next Steps
-- [ ] Create a readme
-- [ ] Create github repository
-- [ ] Finding a genereal idea for the game. See [PreJam Brainstorming](DevLog/PreJam%20Brainstorming.md)
+- [x] Create a readme
+- [x] Create github repository
+- [x] Finding a genereal idea for the game. See [PreJam Brainstorming](DevLog/PreJam%20Brainstorming.md)
+- [x] Find core mechanic
+- [ ] Improve core mechanic
+	- [ ] Define cards
+	- [ ] Turn mechanism
+	- [ ] Currencies
+- [ ] Create Unity project
 - [ ] Find a color palette 

@@ -2,4 +2,4 @@
 
 # Theme : DELAY THE INEVITABLE
 ## Devlogs
-- [ ] Devlog 1 [05h 35m 55s](DevLog/05h%2035m%2055s.md)
+- [ ] Devlog 1 [DevLog1 - 42h 24m 05s](DevLog/DevLog1%20-%2042h%2024m%2005s.md)

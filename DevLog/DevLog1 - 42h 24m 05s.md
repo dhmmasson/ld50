@@ -5,5 +5,3 @@ The kid is up
 my SO is still asleep
 I am trying to brainstorm and set up while playing pretend...
 
-## Finding an idea with the theme : Delay the inevitable
-
